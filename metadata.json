@@ -1,0 +1,8 @@
+{
+  "name": " Nova Personal Assistant of Mayur",
+  "description": "A futuristic personal assistant powered by AI, inspired by sci-fi interfaces. Interact with Nova through a chat interface and see real-time system feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
